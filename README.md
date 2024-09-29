@@ -6,6 +6,8 @@ This project showcases the **network design and implementation** for **Vic Moder
 
 The network setup involves **VLAN segmentation**, **router interconnections**, **OSPF routing**, and **dynamic IP allocation**. Secure remote access via **SSH** and **port security** measures are implemented for added security.
 
+<img src= "https://github.com/ro-drick/Design-and-Implementation-of-a-Hotel-System-Network-Design/blob/main/hotel-network.png">
+
 ## Case Study and Requirements
 
 ### Hotel Layout and Departmental Distribution
